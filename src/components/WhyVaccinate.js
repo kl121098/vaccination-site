@@ -25,7 +25,7 @@ const WhyVaccinate = () => {
             <p className="text-gray-400 mb-6">
               Velit ut consectetur mauris, orci amet, faucibus. Sit turpis fringilla ipsum pretium, dictum. Dolor eget vel nulla lorem ac.
             </p>
-            <a href="#" className="text-blue-400 hover:text-blue-500 flex items-center space-x-1">
+            <a href="#" className="text-[#17C2EC] hover:text-[#17C2EC] flex items-center space-x-1">
               <span className='text-[#17C2EC]'>Read More</span>
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 12h14M12 5l7 7-7 7"></path>
@@ -40,7 +40,7 @@ const WhyVaccinate = () => {
             <p className="text-gray-400 mb-6">
               Velit ut consectetur mauris, orci amet, faucibus.
             </p>
-            <a href="#" className="text-blue-400 hover:text-blue-500 flex items-center space-x-1">
+            <a href="#" className="text-[#17C2EC] hover:text-[#17C2EC] flex items-center space-x-1">
               <span>Read More</span>
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 12h14M12 5l7 7-7 7"></path>
@@ -55,7 +55,7 @@ const WhyVaccinate = () => {
             <p className="text-gray-400 mb-6">
               Velit ut consectetur mauris, orci amet, faucibus.
             </p>
-            <a href="#" className="text-blue-400 hover:text-blue-500 flex items-center space-x-1">
+            <a href="#" className="text-[#17C2EC] hover:text-[#17C2EC] flex items-center space-x-1">
               <span>Read More</span>
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 12h14M12 5l7 7-7 7"></path>
